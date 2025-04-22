@@ -7,7 +7,7 @@ h1 {
   font-family: Lobster, cursive;
   font-size: 3em;
 }
-main {
+section {
   max-width: 960px;
   width: 100%;
   margin: 0 auto;
@@ -35,4 +35,10 @@ input {
   text-align: center;
   color: #fff;
   border-bottom: 6px solid #fff;
+}
+.resultado {
+  font-size: 1em;
+  margin-top: 36px;
+  color: #fff;
+  font-family: Lobster, cursive;
 }
