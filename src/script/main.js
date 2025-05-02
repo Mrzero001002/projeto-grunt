@@ -8,5 +8,6 @@ document.addEventListener('DOMContentLoaded', function() {
         numeroalet = Math.floor(numeroalet + 1);
 
         document.getElementById('resultado-valor').innerText = numeroalet;
+        document.querySelector('.resultado').style.display = 'block';
     })
 });
